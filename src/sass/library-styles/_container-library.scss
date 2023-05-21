@@ -1,0 +1,26 @@
+@media screen and (max-width: 767px) {
+  .container-library {
+    min-width: 320px;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1199px) {
+  .container-library {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+
+}
+
+@media screen and (min-width: 1200px) {
+  .container-library {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+
+}
