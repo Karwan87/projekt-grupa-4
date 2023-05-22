@@ -22,7 +22,7 @@
   }
 
   &__background {
-    background-image: url('../assets/header/abstract-bg-mobile.png');
+    background-image: url('/src/assets/library-header/mobile_library_header@1x.jpg');
     background-size: 100% 14.375rem;
     background-repeat: no-repeat;
   }
@@ -36,7 +36,7 @@
 (min-resolution: 192dpi),
 (min-resolution: 2dppx) {
   .container__background {
-    background-image: url('../assets/header/abstract-bg-mobile@2x.png');
+    background-image: url('/src/assets/library-header/mobile_library_header@2x.jpg');
     background-size: 100% 14.375rem;
   }
 }
@@ -45,7 +45,7 @@
 (min-resolution: 288dpi),
 (min-resolution: 3dppx) {
   .container__background {
-    background-image: url('../assets/header/abstract-bg-mobile@3x.png');
+    background-image: url('/src/assets/library-header/mobile_library_header@1x.jpg');
     background-size: 100% 14.375rem;
   }
 }
